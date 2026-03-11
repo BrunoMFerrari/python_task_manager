@@ -1,0 +1,7 @@
+[X]Adicionar prioridade nas tarefas
+[Baixa]Adicionar data de criação
+[Alta]Adicionar filtro na pesquisa das tarefas
+[X]Adicionar cores no terminal
+[Média]Fazer um README
+[Baixa]GIF do programa rodando
+[Baixa]Explicação das funções
