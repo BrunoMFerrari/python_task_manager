@@ -18,9 +18,9 @@ Tecnologias usadas:
 -Modularização de código
 
 Estrutura do projeto: 
--main.py -> lógica principal
--def_menu.py -> funções relacionadas a interface do menu
--def_database.py -> funções relacionadas a leitura e escrita de dados no arquivo texto
+--> Arquivo main.py -> lógica principal
+--> Arquivo def_menu.py -> funções relacionadas a interface do menu
+--> Arquivo def_database.py -> funções relacionadas a leitura e escrita de dados no arquivo texto
 
 Objetivo do projeto:
 Praticar conceitos fundamentais de Python, como organização de código, modularização, lógica e persistência de dados.
