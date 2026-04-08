@@ -1,26 +1,34 @@
-# python_task_manager
-Primeiro projeto desenvolvido em python como parte do meu aprendizado na linguagem.
+# 🖥️ Python Task Manager (CLI)
 
-O sistema roda no terminal e permite gerenciar tarefas com prioridade, salvando automaticamente as alterações num arquivo texto.
+A simple task management system built in Python, running entirely in the terminal.
 
-Funcionalidades: 
--Adicionar tarefas
--Listar tarefas
--Editar tarefas
--Remover tarefas
--Definir prioridade
--Interface com cores
+This is my first Python project, developed as part of my learning journey. It focuses on fundamental programming concepts such as logic, file handling, and code organization.
 
-Tecnologias usadas:
--Python
--Manipulação de arquivos
--Estrutura de dados (lista e dicionários)
--Modularização de código
+## ✨ Features
+➕ Add tasks
+📋 List tasks
+✏️ Edit tasks
+🗑️ Remove tasks
+🎯 Set task priority
+🎨 Colored terminal interface
 
-Estrutura do projeto: 
---> Arquivo main.py -> lógica principal
---> Arquivo def_menu.py -> funções relacionadas a interface do menu
---> Arquivo def_database.py -> funções relacionadas a leitura e escrita de dados no arquivo texto
+## 🛠️ Tech Stack
+Python
+File handling (read/write)
+Data structures (lists and dictionaries)
+Code modularization
 
-Objetivo do projeto:
-Praticar conceitos fundamentais de Python, como organização de código, modularização, lógica e persistência de dados.
+## 📂 Project Structure
+project/
+├── main.py            # Main application logic
+├── def_menu.py        # Menu interface functions
+├── def_database.py    # File read/write operations
+
+## 🎯 Purpose
+
+The goal of this project is to practice core Python concepts, including:
+
+Code organization
+Modularization
+Programming logic
+Data persistence using text files
